@@ -6,6 +6,8 @@ This is a simple note taking app using Express.js
 
 ## Installation
 
+clone the repo 
+
 npm i
 
 node server.js
